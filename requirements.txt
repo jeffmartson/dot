@@ -160,7 +160,7 @@ torch==2.0.1
     #   torchvision
 torchvision==0.15.2
     # via dot (setup.cfg)
-tqdm==4.64.0
+tqdm==4.66.3
     # via face-alignment
 typing-extensions==4.3.0
     # via torch
