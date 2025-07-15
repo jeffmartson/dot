@@ -110,7 +110,7 @@ pillow==9.3.0
     #   torchvision
 pluggy==1.2.0
     # via pytest
-protobuf==3.20.2
+protobuf==4.25.8
     # via
     #   dot (setup.cfg)
     #   mediapipe
@@ -164,7 +164,7 @@ tqdm==4.64.0
     # via face-alignment
 typing-extensions==4.3.0
     # via torch
-urllib3==1.26.10
+urllib3==2.5.0
     # via requests
 
 # The following packages are considered to be unsafe in a requirements file:
